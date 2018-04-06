@@ -1,0 +1,9 @@
+C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\DAOMock\bin\Debug\DAOMock.dll
+C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\DAOMock\bin\Debug\DAOMock.pdb
+C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\DAOMock\bin\Debug\Core.dll
+C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\DAOMock\bin\Debug\Interfaces.dll
+C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\DAOMock\bin\Debug\Core.pdb
+C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\DAOMock\bin\Debug\Interfaces.pdb
+C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\DAOMock\obj\Debug\DAOMock.csprojResolveAssemblyReference.cache
+C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\DAOMock\obj\Debug\DAOMock.dll
+C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\DAOMock\obj\Debug\DAOMock.pdb
