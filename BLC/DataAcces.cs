@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace Pogodski.GunCatalog.BLC
 {
-    public class DataProvider
+    public class DataAcces
     {
         public IDAO DAO { get; set; }
         public IEnumerable<IGun> Guns
@@ -14,7 +14,7 @@ namespace Pogodski.GunCatalog.BLC
         {
             get { return DAO.GetAllProducers(); }
         }
-        public DataProvider()
+        public DataAcces()
         {
             DAO = (IDAO)new DAOMock.DAO();
         }

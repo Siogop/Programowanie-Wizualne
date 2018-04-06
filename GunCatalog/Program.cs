@@ -7,12 +7,12 @@ namespace Pogodski.GunCatalog
     {
         static void Main(string[] args)
         {
-            Pogodski.GunCatalog.BLC.DataProvider dataProvider = new BLC.DataProvider();
-            foreach (var p in dataProvider.Producers)
+            Pogodski.GunCatalog.BLC.DataAcces dataAcces = new BLC.DataAcces();
+            foreach (var p in dataAcces.Producers)
             {
                 Console.WriteLine($"Origin: {p.Country}");
             }
-            foreach (var b in dataProvider.Guns)
+            foreach (var b in dataAcces.Guns)
             {
                 Console.WriteLine($"Model: {b.Model} Producer: {b.Producer.Country} DPS: {b.DamagePerSecond} Armor penetration: {b.ArmorPenetration} Clip size: {b.ClipSize}");
             }
