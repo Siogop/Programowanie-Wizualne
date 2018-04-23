@@ -22,5 +22,17 @@ namespace GunCatalog.Properties {
                 return defaultInstance;
             }
         }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("DAOMock2.dll")]
+        public string DAO {
+            get {
+                return ((string)(this["DAO"]));
+            }
+            set {
+                this["DAO"] = value;
+            }
+        }
     }
 }

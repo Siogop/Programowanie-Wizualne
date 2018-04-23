@@ -1,9 +1,7 @@
 C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\BLC\bin\Debug\BLC.dll
 C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\BLC\bin\Debug\BLC.pdb
-C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\BLC\bin\Debug\DAOMock.dll
 C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\BLC\bin\Debug\Interfaces.dll
 C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\BLC\bin\Debug\Core.dll
-C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\BLC\bin\Debug\DAOMock.pdb
 C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\BLC\bin\Debug\Interfaces.pdb
 C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\BLC\bin\Debug\Core.pdb
 C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\BLC\obj\Debug\BLC.csprojResolveAssemblyReference.cache

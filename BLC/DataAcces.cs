@@ -1,5 +1,8 @@
 ﻿using Pogodski.GunCatalog.Interfaces;
+using System;
 using System.Collections.Generic;
+using System.IO;
+using System.Reflection;
 
 namespace Pogodski.GunCatalog.BLC
 {
@@ -14,9 +17,24 @@ namespace Pogodski.GunCatalog.BLC
         {
             get { return DAO.GetAllProducers(); }
         }
-        public DataAcces()
+        public DataAcces(string setting)
         {
-            DAO = (IDAO)new DAOMock.DAO();
+            var dllFile = new FileInfo(@"..\..\..\Libraries\" + setting);
+            //Console.WriteLine(dllFile.FullName);
+            Assembly a = Assembly.UnsafeLoadFrom(dllFile.FullName);
+            Type type = null;
+            foreach (var t in a.GetTypes())
+            {
+                if (t.GetInterface("Pogodski.GunCatalog.Interfaces.IDAO") != null)
+                {
+
+                    type = t;
+                }
+            }
+            if (type != null)
+            {
+                DAO = (Interfaces.IDAO)Activator.CreateInstance(type, null);
+            }
         }
     }
 }

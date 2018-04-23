@@ -1,0 +1,9 @@
+C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\DAOMock2\bin\Debug\DAOMock2.dll.config
+C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\DAOMock2\bin\Debug\DAOMock2.dll
+C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\DAOMock2\bin\Debug\DAOMock2.pdb
+C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\DAOMock2\bin\Debug\Core.dll
+C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\DAOMock2\bin\Debug\Interfaces.dll
+C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\DAOMock2\bin\Debug\Core.pdb
+C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\DAOMock2\bin\Debug\Interfaces.pdb
+C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\DAOMock2\obj\Debug\DAOMock2.dll
+C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\DAOMock2\obj\Debug\DAOMock2.pdb
