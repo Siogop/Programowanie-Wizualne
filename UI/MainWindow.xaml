@@ -1,0 +1,34 @@
+﻿<Window x:Class="Pogodski.GunCatalog.UI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Pogodski.GunCatalog.UI"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Name="Window1">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <ListBox Name="List" Grid.Row="0" Grid.Column="0" ItemsSource="{Binding ElementName=Window1,Path=Guns}" DisplayMemberPath="Model">
+        </ListBox>
+        <StackPanel Grid.Row="0" Grid.Column="1" Orientation="Horizontal">
+            <StackPanel>
+                <Label Content="Model:"/>
+                <Label Content="Caliber:"/>
+                <Label Content="Clip Size:"/>
+                <Label Content="Producer:"/>
+                <Label Content="Type:"/>
+            </StackPanel>
+            <StackPanel>
+                <Label Content="{Binding ElementName=List, Path=SelectedItem.Model}"/>
+                <Label Content="{Binding ElementName=List, Path=SelectedItem.Caliber}"/>
+                <Label Content="{Binding ElementName=List, Path=SelectedItem.ClipSize}"/>
+                <Label Content="{Binding ElementName=List, Path=SelectedItem.Producer.Name}"/>
+                <Label Content="{Binding ElementName=List, Path=SelectedItem.Type}"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

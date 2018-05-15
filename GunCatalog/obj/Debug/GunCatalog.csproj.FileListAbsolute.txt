@@ -7,8 +7,13 @@ C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\GunCata
 C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\GunCatalog\bin\Debug\BLC.pdb
 C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\GunCatalog\bin\Debug\Interfaces.pdb
 C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\GunCatalog\bin\Debug\Core.pdb
-C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\GunCatalog\obj\Debug\GunCatalog.csprojResolveAssemblyReference.cache
 C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\GunCatalog\obj\Debug\GunCatalog.Properties.Resources.resources
 C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\GunCatalog\obj\Debug\GunCatalog.csproj.GenerateResource.Cache
 C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\GunCatalog\obj\Debug\GunCatalog.exe
 C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\GunCatalog\obj\Debug\GunCatalog.pdb
+C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\GunCatalog\obj\Debug\GunCatalog.csprojAssemblyReference.cache
+C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\GunCatalog\obj\Debug\GunCatalog.csproj.CoreCompileInputs.cache
+C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\GunCatalog\obj\Debug\GunCatalog.csproj.CopyComplete
+C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\GunCatalog\bin\Debug\UI.exe
+C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\GunCatalog\bin\Debug\UI.pdb
+C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\GunCatalog\bin\Debug\UI.exe.config

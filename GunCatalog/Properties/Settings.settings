@@ -3,7 +3,7 @@
   <Profiles />
   <Settings>
     <Setting Name="DAO" Type="System.String" Scope="User">
-      <Value Profile="(Default)">DAOMock.dll</Value>
+      <Value Profile="(Default)">DAOMock2.dll</Value>
     </Setting>
   </Settings>
 </SettingsFile>

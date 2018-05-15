@@ -1,6 +1,7 @@
 ﻿using System;
 using GunCatalog.Properties;
 using System.Reflection;
+using Pogodski.GunCatalog.UI;
 
 namespace Pogodski.GunCatalog
 {
@@ -20,6 +21,7 @@ namespace Pogodski.GunCatalog
             {
                 Console.WriteLine($"Model: {b.Model} Producer: {b.Producer.Country} Caliber: {b.Caliber} Clip size: {b.ClipSize}");
             }
+
 
             Console.ReadKey();
         }

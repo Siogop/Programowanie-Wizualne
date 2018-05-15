@@ -83,6 +83,10 @@
       <Project>{E0334BB4-E9D9-4FCF-BC55-F1ACC65D9FC2}</Project>
       <Name>Interfaces</Name>
     </ProjectReference>
+    <ProjectReference Include="..\UI\UI.csproj">
+      <Project>{ea329f94-874d-49d7-b088-ffafa518cb68}</Project>
+      <Name>UI</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

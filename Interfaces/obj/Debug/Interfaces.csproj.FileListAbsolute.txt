@@ -2,6 +2,8 @@ C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\Interfa
 C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\Interfaces\bin\Debug\Interfaces.pdb
 C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\Interfaces\bin\Debug\Core.dll
 C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\Interfaces\bin\Debug\Core.pdb
-C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
 C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\Interfaces\obj\Debug\Interfaces.dll
 C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\Interfaces\obj\Debug\Interfaces.csproj.CopyComplete
