@@ -7,3 +7,6 @@ C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\DAOMock
 C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\DAOMock2\bin\Debug\Interfaces.pdb
 C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\DAOMock2\obj\Debug\DAOMock2.dll
 C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\DAOMock2\obj\Debug\DAOMock2.pdb
+C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\DAOMock2\obj\Debug\DAOMock2.csprojAssemblyReference.cache
+C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\DAOMock2\obj\Debug\DAOMock2.csproj.CoreCompileInputs.cache
+C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\DAOMock2\obj\Debug\DAOMock2.csproj.CopyComplete

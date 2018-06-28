@@ -17,6 +17,30 @@ namespace Pogodski.GunCatalog.BLC
         {
             get { return DAO.GetAllProducers(); }
         }
+        public IGun AddGun()
+        {
+            return DAO.AddNewGun();
+        }
+        public void SaveGun(IGun gun)
+        {
+            DAO.SaveGun(gun);
+        }
+        public void SaveGun(IGun gun, int index)
+        {
+            DAO.SaveGun(gun, index);
+        }
+        public IProducer AddProducer()
+        {
+            return DAO.AddNewProducer();
+        }
+        public void SaveProducer(IProducer producer)
+        {
+            DAO.SaveProducer(producer);
+        }
+        public void SaveProducer(IProducer producer, int index)
+        {
+            DAO.SaveProducer(producer, index);
+        }
         public DataAcces(string setting)
         {
             var dllFile = new FileInfo(@"..\..\..\Libraries\" + setting);

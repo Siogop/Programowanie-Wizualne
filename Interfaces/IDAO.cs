@@ -7,5 +7,11 @@ namespace Pogodski.GunCatalog.Interfaces
     {
         IEnumerable<IGun> GetAllGuns();
         IEnumerable<IProducer> GetAllProducers();
+        IGun AddNewGun();
+        IProducer AddNewProducer();
+        void SaveGun(IGun gun);
+        void SaveGun(IGun gun, int index);
+        void SaveProducer(IProducer producer);
+        void SaveProducer(IProducer producer, int index);
     }
 }

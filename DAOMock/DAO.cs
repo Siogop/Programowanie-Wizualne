@@ -33,5 +33,35 @@ namespace Pogodski.GunCatalog.DAOMock2
         {
             return _producers;
         }
+        public IGun AddNewGun()
+        {
+            IGun gun = new BO.Gun();
+            gun.Model = "";
+            gun.Caliber = 0.0f;
+            gun.ClipSize = 0;
+            return gun;
+        }
+        public IProducer AddNewProducer()
+        {
+            IProducer producer = new BO.Producer();
+            producer.Name = "";
+            producer.Country = "";
+            return producer;
+        }
+        public void SaveGun(IGun gun) {
+            _guns.Add(gun);
+        }
+        public void SaveGun(IGun gun, int index)
+        {
+            _guns[index] = gun;
+        }
+        public void SaveProducer(IProducer producer)
+        {
+            _producers.Add(producer);
+        }
+        public void SaveProducer(IProducer producer, int index)
+        {
+            _producers[index] = producer;
+        }
     }
 }

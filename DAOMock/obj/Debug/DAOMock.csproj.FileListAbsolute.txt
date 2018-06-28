@@ -4,6 +4,8 @@ C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\DAOMock
 C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\DAOMock\bin\Debug\Interfaces.dll
 C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\DAOMock\bin\Debug\Core.pdb
 C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\DAOMock\bin\Debug\Interfaces.pdb
-C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\DAOMock\obj\Debug\DAOMock.csprojResolveAssemblyReference.cache
 C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\DAOMock\obj\Debug\DAOMock.dll
 C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\DAOMock\obj\Debug\DAOMock.pdb
+C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\DAOMock\obj\Debug\DAOMock.csprojAssemblyReference.cache
+C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\DAOMock\obj\Debug\DAOMock.csproj.CoreCompileInputs.cache
+C:\Users\pogod_000\Documents\Informatyka\PW\ProgramowanieWizualne-master\DAOMock\obj\Debug\DAOMock.csproj.CopyComplete
