@@ -1,0 +1,24 @@
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\BLC\bin\Release\BLC.dll
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\BLC\bin\Release\BLC.pdb
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\BLC\bin\Release\DAOMock.dll
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\BLC\bin\Release\Interfaces.dll
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\BLC\bin\Release\Core.dll
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\BLC\bin\Release\DAOMock.pdb
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\BLC\bin\Release\Interfaces.pdb
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\BLC\bin\Release\Core.pdb
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\BLC\obj\Release\BLC.csprojResolveAssemblyReference.cache
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\BLC\obj\Release\BLC.csproj.CoreCompileInputs.cache
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\BLC\obj\Release\BLC.csproj.CopyComplete
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\BLC\obj\Release\BLC.dll
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\BLC\obj\Release\BLC.pdb
+C:\Users\pogod\Documents\Informatyka\Programowanie-Wizualne-master\BLC\bin\Release\BLC.dll
+C:\Users\pogod\Documents\Informatyka\Programowanie-Wizualne-master\BLC\bin\Release\BLC.pdb
+C:\Users\pogod\Documents\Informatyka\Programowanie-Wizualne-master\BLC\bin\Release\Interfaces.dll
+C:\Users\pogod\Documents\Informatyka\Programowanie-Wizualne-master\BLC\bin\Release\Core.dll
+C:\Users\pogod\Documents\Informatyka\Programowanie-Wizualne-master\BLC\bin\Release\Interfaces.pdb
+C:\Users\pogod\Documents\Informatyka\Programowanie-Wizualne-master\BLC\bin\Release\Core.pdb
+C:\Users\pogod\Documents\Informatyka\Programowanie-Wizualne-master\BLC\obj\Release\BLC.csprojAssemblyReference.cache
+C:\Users\pogod\Documents\Informatyka\Programowanie-Wizualne-master\BLC\obj\Release\BLC.csproj.CoreCompileInputs.cache
+C:\Users\pogod\Documents\Informatyka\Programowanie-Wizualne-master\BLC\obj\Release\BLC.csproj.CopyComplete
+C:\Users\pogod\Documents\Informatyka\Programowanie-Wizualne-master\BLC\obj\Release\BLC.dll
+C:\Users\pogod\Documents\Informatyka\Programowanie-Wizualne-master\BLC\obj\Release\BLC.pdb

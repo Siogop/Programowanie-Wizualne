@@ -1,0 +1,12 @@
+C:\Users\pogod\Documents\Informatyka\Programowanie-Wizualne-master\DAOMock2\bin\Release\DAOMock2.dll.config
+C:\Users\pogod\Documents\Informatyka\Programowanie-Wizualne-master\DAOMock2\bin\Release\DAOMock2.dll
+C:\Users\pogod\Documents\Informatyka\Programowanie-Wizualne-master\DAOMock2\bin\Release\DAOMock2.pdb
+C:\Users\pogod\Documents\Informatyka\Programowanie-Wizualne-master\DAOMock2\bin\Release\Core.dll
+C:\Users\pogod\Documents\Informatyka\Programowanie-Wizualne-master\DAOMock2\bin\Release\Interfaces.dll
+C:\Users\pogod\Documents\Informatyka\Programowanie-Wizualne-master\DAOMock2\bin\Release\Core.pdb
+C:\Users\pogod\Documents\Informatyka\Programowanie-Wizualne-master\DAOMock2\bin\Release\Interfaces.pdb
+C:\Users\pogod\Documents\Informatyka\Programowanie-Wizualne-master\DAOMock2\obj\Release\DAOMock2.csprojAssemblyReference.cache
+C:\Users\pogod\Documents\Informatyka\Programowanie-Wizualne-master\DAOMock2\obj\Release\DAOMock2.csproj.CoreCompileInputs.cache
+C:\Users\pogod\Documents\Informatyka\Programowanie-Wizualne-master\DAOMock2\obj\Release\DAOMock2.csproj.CopyComplete
+C:\Users\pogod\Documents\Informatyka\Programowanie-Wizualne-master\DAOMock2\obj\Release\DAOMock2.dll
+C:\Users\pogod\Documents\Informatyka\Programowanie-Wizualne-master\DAOMock2\obj\Release\DAOMock2.pdb

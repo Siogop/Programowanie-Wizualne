@@ -1,0 +1,18 @@
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\Interfaces\bin\Release\Interfaces.dll
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\Interfaces\bin\Release\Interfaces.pdb
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\Interfaces\bin\Release\Core.dll
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\Interfaces\bin\Release\Core.pdb
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\Interfaces\obj\Release\Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\Interfaces\obj\Release\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\Interfaces\obj\Release\Interfaces.csproj.CopyComplete
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\Interfaces\obj\Release\Interfaces.dll
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\Interfaces\obj\Release\Interfaces.pdb
+C:\Users\pogod\Documents\Informatyka\Programowanie-Wizualne-master\Interfaces\bin\Release\Interfaces.dll
+C:\Users\pogod\Documents\Informatyka\Programowanie-Wizualne-master\Interfaces\bin\Release\Interfaces.pdb
+C:\Users\pogod\Documents\Informatyka\Programowanie-Wizualne-master\Interfaces\bin\Release\Core.dll
+C:\Users\pogod\Documents\Informatyka\Programowanie-Wizualne-master\Interfaces\bin\Release\Core.pdb
+C:\Users\pogod\Documents\Informatyka\Programowanie-Wizualne-master\Interfaces\obj\Release\Interfaces.csprojAssemblyReference.cache
+C:\Users\pogod\Documents\Informatyka\Programowanie-Wizualne-master\Interfaces\obj\Release\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\pogod\Documents\Informatyka\Programowanie-Wizualne-master\Interfaces\obj\Release\Interfaces.csproj.CopyComplete
+C:\Users\pogod\Documents\Informatyka\Programowanie-Wizualne-master\Interfaces\obj\Release\Interfaces.dll
+C:\Users\pogod\Documents\Informatyka\Programowanie-Wizualne-master\Interfaces\obj\Release\Interfaces.pdb

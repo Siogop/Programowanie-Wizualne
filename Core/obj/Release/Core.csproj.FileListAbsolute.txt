@@ -1,0 +1,12 @@
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\Core\bin\Release\Core.dll
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\Core\bin\Release\Core.pdb
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\Core\obj\Release\Core.csprojResolveAssemblyReference.cache
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\Core\obj\Release\Core.csproj.CoreCompileInputs.cache
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\Core\obj\Release\Core.dll
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\Core\obj\Release\Core.pdb
+C:\Users\pogod\Documents\Informatyka\Programowanie-Wizualne-master\Core\bin\Release\Core.dll
+C:\Users\pogod\Documents\Informatyka\Programowanie-Wizualne-master\Core\bin\Release\Core.pdb
+C:\Users\pogod\Documents\Informatyka\Programowanie-Wizualne-master\Core\obj\Release\Core.csprojAssemblyReference.cache
+C:\Users\pogod\Documents\Informatyka\Programowanie-Wizualne-master\Core\obj\Release\Core.csproj.CoreCompileInputs.cache
+C:\Users\pogod\Documents\Informatyka\Programowanie-Wizualne-master\Core\obj\Release\Core.dll
+C:\Users\pogod\Documents\Informatyka\Programowanie-Wizualne-master\Core\obj\Release\Core.pdb

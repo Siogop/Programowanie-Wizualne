@@ -1,0 +1,22 @@
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\DAOMock\bin\Release\DAOMock.dll
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\DAOMock\bin\Release\DAOMock.pdb
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\DAOMock\bin\Release\Core.dll
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\DAOMock\bin\Release\Interfaces.dll
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\DAOMock\bin\Release\Core.pdb
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\DAOMock\bin\Release\Interfaces.pdb
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\DAOMock\obj\Release\DAOMock.csprojResolveAssemblyReference.cache
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\DAOMock\obj\Release\DAOMock.csproj.CoreCompileInputs.cache
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\DAOMock\obj\Release\DAOMock.csproj.CopyComplete
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\DAOMock\obj\Release\DAOMock.dll
+C:\Users\Kamil Kołodziej\Documents\Visual Studio 2017\Projects\BeerCatalog\DAOMock\obj\Release\DAOMock.pdb
+C:\Users\pogod\Documents\Informatyka\Programowanie-Wizualne-master\DAOMock\bin\Release\DAOMock.dll
+C:\Users\pogod\Documents\Informatyka\Programowanie-Wizualne-master\DAOMock\bin\Release\DAOMock.pdb
+C:\Users\pogod\Documents\Informatyka\Programowanie-Wizualne-master\DAOMock\bin\Release\Core.dll
+C:\Users\pogod\Documents\Informatyka\Programowanie-Wizualne-master\DAOMock\bin\Release\Interfaces.dll
+C:\Users\pogod\Documents\Informatyka\Programowanie-Wizualne-master\DAOMock\bin\Release\Core.pdb
+C:\Users\pogod\Documents\Informatyka\Programowanie-Wizualne-master\DAOMock\bin\Release\Interfaces.pdb
+C:\Users\pogod\Documents\Informatyka\Programowanie-Wizualne-master\DAOMock\obj\Release\DAOMock.csprojAssemblyReference.cache
+C:\Users\pogod\Documents\Informatyka\Programowanie-Wizualne-master\DAOMock\obj\Release\DAOMock.csproj.CoreCompileInputs.cache
+C:\Users\pogod\Documents\Informatyka\Programowanie-Wizualne-master\DAOMock\obj\Release\DAOMock.csproj.CopyComplete
+C:\Users\pogod\Documents\Informatyka\Programowanie-Wizualne-master\DAOMock\obj\Release\DAOMock.dll
+C:\Users\pogod\Documents\Informatyka\Programowanie-Wizualne-master\DAOMock\obj\Release\DAOMock.pdb
